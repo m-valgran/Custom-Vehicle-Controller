@@ -1,0 +1,8 @@
+Model Information:
+* title:	1974 Volkswagen Golf Mk1 (LP)
+* source:	https://sketchfab.com/3d-models/1974-volkswagen-golf-mk1-lp-2193b76ebc66474a8dac01242014c911
+* author:	KrStolorz (Krzysztof Stolorz) (https://sketchfab.com/KrStolorz)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

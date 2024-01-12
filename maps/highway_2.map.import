@@ -1,0 +1,14 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+uid="uid://bdsoto8igdvmo"
+path="res://.godot/imported/highway_2.map-cf62bafee00b63dad871803803876de0.tres"
+
+[deps]
+
+source_file="res://maps/highway_2.map"
+dest_files=["res://.godot/imported/highway_2.map-cf62bafee00b63dad871803803876de0.tres"]
+
+[params]
+
